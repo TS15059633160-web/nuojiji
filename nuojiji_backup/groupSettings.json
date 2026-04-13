@@ -1,1 +1,1 @@
-[]
+[{"userId":"uid_1776047058167_0exaacpwj","groupId":"group_1776051662518","allowAdminTitle":true,"groupVoiceEnabled":false,"groupMemoryDepth":50,"groupAutoSummary":true,"groupSummaryFrequency":50,"groupSummaryInstructions":"<日记生成规范>\n# 日记助手在生成日记时必须严格按照以下要求和格式生成，此为最优先的规则\n​Strictly output in JSON format only. Do not speak outside the JSON object.\n（这里可以放你想要自定义的日记文风或者全客观总结规范）\n</日记生成规范>","themeStyle":"instagram"}]
