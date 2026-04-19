@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1776528174036,
-  "appVersion": "4.0.0 (2026.04.11)",
+  "timestamp": 1776615262260,
+  "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
     "worldBooks",
