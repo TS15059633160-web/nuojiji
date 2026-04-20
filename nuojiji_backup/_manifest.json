@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1776652325304,
-  "appVersion": "4.0.0 (2026.04.11)",
+  "timestamp": 1776667926057,
+  "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
     "worldBooks",
@@ -33,6 +33,7 @@
     "imageStore",
     "quickReplies",
     "goingOutState",
+    "goingOutAreas",
     "mapRasterCache",
     "customGames",
     "customWidgetTemplates",
