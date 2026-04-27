@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1777175545034,
+  "timestamp": 1777283095958,
   "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
@@ -13,6 +13,7 @@
     "userPosts",
     "chatSettings",
     "messages",
+    "favorites",
     "memory",
     "callLogs",
     "roleStickers",
@@ -38,9 +39,5 @@
     "customGames",
     "customWidgetTemplates",
     "_migration"
-  ],
-  "chunkedTables": {
-    "messages": 9,
-    "tmStories": 2
-  }
+  ]
 }
