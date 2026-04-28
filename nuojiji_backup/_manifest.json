@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1777341229626,
+  "timestamp": 1777345020106,
   "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
@@ -39,5 +39,8 @@
     "customGames",
     "customWidgetTemplates",
     "_migration"
-  ]
+  ],
+  "chunkedTables": {
+    "tmStories": 2
+  }
 }
