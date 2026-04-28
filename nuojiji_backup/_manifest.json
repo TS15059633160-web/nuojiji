@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1777374117263,
-  "appVersion": "5.0.0 (2026.04.20)",
+  "timestamp": 1777380706646,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "worldBooks",
@@ -41,7 +41,10 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 11,
-    "tmStories": 2
-  }
+    "stickers": 2,
+    "messages": 24,
+    "roleStickers": 2,
+    "tmStories": 5
+  },
+  "source": "auto"
 }
