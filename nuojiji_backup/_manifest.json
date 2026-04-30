@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1777474502681,
+  "timestamp": 1777507807435,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -38,6 +38,7 @@
     "mapRasterCache",
     "customGames",
     "customWidgetTemplates",
+    "wallpapers",
     "_migration"
   ],
   "chunkedTables": {
