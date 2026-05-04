@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1777934937567,
-  "appVersion": "auto-backup",
+  "timestamp": 1777934958006,
+  "appVersion": "5.0.0 (2026.04.20)",
   "tables": [
     "characters",
     "worldBooks",
@@ -39,12 +39,12 @@
     "customGames",
     "customWidgetTemplates",
     "wallpapers",
+    "whiteDogData",
+    "isekaiSaves",
+    "pomodoroData",
+    "regexRules",
+    "mcpServers",
+    "thinkingStore",
     "_migration"
-  ],
-  "chunkedTables": {
-    "messages": 3,
-    "roleStickers": 2,
-    "tmStories": 1
-  },
-  "source": "auto"
+  ]
 }
