@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1779512297763,
-  "appVersion": "5.1.0 (2026.05.21)",
+  "timestamp": 1779512313113,
+  "appVersion": "auto-backup",
   "tables": [
     "characters",
     "worldBooks",
@@ -15,15 +15,10 @@
     "messages",
     "favorites",
     "memory",
-    "summaryEntries",
     "callLogs",
     "roleStickers",
     "tmSessions",
     "tmStories",
-    "multiSceneSessions",
-    "multiSceneStories",
-    "multiSceneCastSettings",
-    "multiSceneSummaries",
     "customNoises",
     "flashMoments",
     "groupSettings",
@@ -43,20 +38,14 @@
     "mapRasterCache",
     "customGames",
     "customWidgetTemplates",
-    "customWidgetState",
     "wallpapers",
-    "whiteDogData",
-    "isekaiSaves",
-    "pomodoroData",
-    "regexRules",
-    "mcpServers",
-    "thinkingStore",
-    "commitments",
-    "characterLifeState",
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 3,
-    "tmStories": 2
-  }
+    "stickers": 2,
+    "messages": 2,
+    "roleStickers": 2,
+    "tmStories": 4
+  },
+  "source": "auto"
 }
