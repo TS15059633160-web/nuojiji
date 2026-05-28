@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1779952015223,
+  "timestamp": 1779952022558,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -47,7 +47,8 @@
   "completedTables": {
     "characters": true,
     "worldBooks": true,
-    "globalSettings": true
+    "globalSettings": true,
+    "kaomojis": true
   },
   "source": "auto",
   "inProgress": true
