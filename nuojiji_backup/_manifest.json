@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1779948278536,
+  "timestamp": 1779948287857,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -64,7 +64,9 @@
     "flashMoments": true,
     "groupSettings": true,
     "userLinks": true,
-    "userMessages": true
+    "userMessages": true,
+    "ttsAudio": true,
+    "forumData": true
   },
   "source": "auto",
   "inProgress": true
