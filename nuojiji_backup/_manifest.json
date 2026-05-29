@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780064103744,
+  "timestamp": 1780064106295,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -111,5 +111,5 @@
     "characterLifeState": true,
     "_migration": true
   },
-  "inProgress": true
+  "inProgress": false
 }
