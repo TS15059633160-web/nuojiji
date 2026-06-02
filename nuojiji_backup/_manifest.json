@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780380564844,
+  "timestamp": 1780380571565,
   "appVersion": "5.1.0 (2026.05.21)",
   "tables": [
     "characters",
@@ -60,6 +60,9 @@
     "healthProfile",
     "_migration"
   ],
+  "chunkedTables": {
+    "messages": 1
+  },
   "completedTables": {
     "characters": true,
     "worldBooks": true,
