@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780765720376,
+  "timestamp": 1780765973851,
   "appVersion": "5.5.0 (2026.06.05)",
   "tables": [
     "characters",
@@ -90,7 +90,10 @@
     "goingOutState": true,
     "goingOutAreas": true,
     "mapRasterCache": true,
-    "customGames": true
+    "customGames": true,
+    "customWidgetTemplates": true,
+    "customWidgetState": true,
+    "isekaiSaves": true
   },
   "inProgress": true
 }
