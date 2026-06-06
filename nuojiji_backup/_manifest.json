@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780761465988,
+  "timestamp": 1780761527121,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -65,7 +65,16 @@
     "forumData": true,
     "calendarData": true,
     "groupChats": true,
-    "xinsheng": true
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "couplesData": true,
+    "imageStore": true,
+    "quickReplies": true,
+    "goingOutState": true,
+    "goingOutAreas": true,
+    "mapRasterCache": true,
+    "customGames": true,
+    "customWidgetTemplates": true
   },
   "source": "auto",
   "inProgress": true
