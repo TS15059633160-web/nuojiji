@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780768029754,
+  "timestamp": 1780768141590,
   "appVersion": "5.5.0 (2026.06.05)",
   "tables": [
     "characters",
@@ -61,38 +61,5 @@
     "healthProfile",
     "_migration"
   ],
-  "chunkedTables": {
-    "tmStories": 2
-  },
-  "completedTables": {
-    "worldBooks": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "memory": true,
-    "tmSessions": true,
-    "multiSceneSessions": true,
-    "multiSceneStories": true,
-    "multiSceneCastSettings": true,
-    "multiSceneSessionSettings": true,
-    "multiSceneSessionSummaries": true,
-    "customNoises": true,
-    "flashMoments": true,
-    "groupSettings": true,
-    "userMessages": true,
-    "ttsAudio": true,
-    "forumData": true,
-    "calendarData": true,
-    "groupChats": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "imageStore": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true,
-    "mapRasterCache": true,
-    "customGames": true
-  },
   "inProgress": true
 }
