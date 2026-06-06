@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780766593528,
+  "timestamp": 1780766613349,
   "appVersion": "5.5.0 (2026.06.05)",
   "tables": [
     "characters",
@@ -63,7 +63,7 @@
   ],
   "chunkedTables": {
     "messages": 3,
-    "tmStories": 2
+    "tmStories": 3
   },
   "completedTables": {
     "worldBooks": true,
@@ -78,7 +78,8 @@
     "summaryEntries": true,
     "callLogs": true,
     "roleStickers": true,
-    "tmSessions": true
+    "tmSessions": true,
+    "multiSceneSessions": true
   },
   "inProgress": true
 }
