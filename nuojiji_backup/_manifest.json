@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780769786895,
+  "timestamp": 1780769847214,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -44,7 +44,7 @@
   "chunkedTables": {
     "messages": 8,
     "roleStickers": 2,
-    "tmStories": 1
+    "tmStories": 7
   },
   "completedTables": {
     "characters": true,
@@ -58,7 +58,10 @@
     "favorites": true,
     "memory": true,
     "callLogs": true,
-    "tmSessions": true
+    "tmSessions": true,
+    "customNoises": true,
+    "flashMoments": true,
+    "groupSettings": true
   },
   "source": "auto",
   "inProgress": true
