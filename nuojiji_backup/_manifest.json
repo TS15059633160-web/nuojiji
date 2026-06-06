@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780765313540,
+  "timestamp": 1780765427551,
   "appVersion": "5.5.0 (2026.06.05)",
   "tables": [
     "characters",
@@ -63,7 +63,11 @@
   ],
   "completedTables": {
     "kaomojis": true,
-    "favorites": true
+    "favorites": true,
+    "memory": true,
+    "summaryEntries": true,
+    "callLogs": true,
+    "tmSessions": true
   },
   "inProgress": true
 }
