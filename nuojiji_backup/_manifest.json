@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1780803015907,
+  "timestamp": 1780803081733,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -64,7 +64,18 @@
     "groupSettings": true,
     "userLinks": true,
     "userMessages": true,
-    "ttsAudio": true
+    "ttsAudio": true,
+    "forumData": true,
+    "calendarData": true,
+    "groupChats": true,
+    "xinsheng": true,
+    "pomodoroSessions": true,
+    "couplesData": true,
+    "imageStore": true,
+    "quickReplies": true,
+    "goingOutState": true,
+    "goingOutAreas": true,
+    "mapRasterCache": true
   },
   "source": "auto",
   "inProgress": true
