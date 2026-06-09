@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781019513686,
+  "timestamp": 1781019567398,
   "appVersion": "6.0.0 (2026.06.08)",
   "tables": [
     "characters",
@@ -80,7 +80,17 @@
     "summaryEntries": true,
     "callLogs": true,
     "roleStickers": true,
-    "tmSessions": true
+    "tmSessions": true,
+    "multiSceneSessions": true,
+    "multiSceneStories": true,
+    "multiSceneCastSettings": true,
+    "multiSceneSessionSettings": true,
+    "multiSceneSessionSummaries": true,
+    "customNoises": true,
+    "flashMoments": true,
+    "groupSettings": true,
+    "userLinks": true,
+    "userMessages": true
   },
   "inProgress": true
 }
