@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781023675070,
+  "timestamp": 1781023732621,
   "appVersion": "6.0.0 (2026.06.08)",
   "tables": [
     "characters",
@@ -63,7 +63,14 @@
     "_migration"
   ],
   "completedTables": {
-    "characters": true
+    "characters": true,
+    "worldBooks": true,
+    "stickers": true,
+    "kaomojis": true,
+    "users": true,
+    "userState": true,
+    "userPosts": true,
+    "chatSettings": true
   },
   "inProgress": true
 }
