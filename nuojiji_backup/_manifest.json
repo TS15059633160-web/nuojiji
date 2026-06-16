@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781594475940,
+  "timestamp": 1781594545220,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -71,7 +71,8 @@
     "tmSessions": 2,
     "tmStories": 37,
     "multiSceneStories": 10,
-    "thinkingStore": 3
+    "thinkingStore": 3,
+    "healthEntries": 2
   },
   "completedTables": {
     "worldBooks": true,
@@ -110,7 +111,8 @@
     "pomodoroData": true,
     "mcpServers": true,
     "commitments": true,
-    "characterLifeState": true
+    "characterLifeState": true,
+    "chikanPhoneSkins": true
   },
   "source": "auto",
   "inProgress": true
