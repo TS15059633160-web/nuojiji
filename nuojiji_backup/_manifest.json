@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781594553881,
+  "timestamp": 1781594612105,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -72,7 +72,7 @@
     "tmStories": 37,
     "multiSceneStories": 10,
     "thinkingStore": 3,
-    "healthEntries": 3
+    "healthEntries": 8
   },
   "completedTables": {
     "worldBooks": true,
@@ -112,7 +112,8 @@
     "mcpServers": true,
     "commitments": true,
     "characterLifeState": true,
-    "chikanPhoneSkins": true
+    "chikanPhoneSkins": true,
+    "healthProfile": true
   },
   "source": "auto",
   "inProgress": true
