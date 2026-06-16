@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781594311074,
+  "timestamp": 1781594318220,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -104,7 +104,8 @@
     "customGames": true,
     "customWidgetTemplates": true,
     "customWidgetState": true,
-    "whiteDogData": true
+    "whiteDogData": true,
+    "isekaiSaves": true
   },
   "source": "auto",
   "inProgress": true
